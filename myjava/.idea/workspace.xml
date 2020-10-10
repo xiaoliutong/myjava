@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cdaf4dc-921b-4324-a72d-435682a26b91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/brand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/companyAddress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/coupon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/couponHistory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/flash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/flashProductRelation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/flashSession.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/homeAdvertise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/homeBrand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/homeSubject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/hotProduct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/memberLevel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/newProduct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/orderSetting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/oss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/prefrenceArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/productAttr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/productAttrCate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/productCate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/resource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/resourceCategory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/returnApply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/returnReason.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/role.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/skuStock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/api/subject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/images/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/images/404_cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/images/gif_404.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/images/home_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/images/home_today_amount.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/images/home_yesterday_amount.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/images/login_center_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Breadcrumb/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Hamburger/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/ScrollBar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/SvgIcon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Tinymce/components/editorImage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Tinymce/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Tinymce/zh_CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Upload/multiUpload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Upload/singleUpload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/example.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/form.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/login-mall.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/marker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/order-return-reason.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/order-return.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/order-setting.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/order.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/password.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/product-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/product-attr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/product-brand.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/product-cate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/product-comment.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/product-list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/product-recycle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/product.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/sms-ad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/sms-coupon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/sms-flash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/sms-hot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/sms-new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/sms-subject.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/sms.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/total-today.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/total-week.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/total-yesterday.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/tree.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/ums-admin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/ums-menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/ums-resource.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/ums-role.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/ums.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/icons/svg/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/store/modules/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/store/modules/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/store/modules/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/styles/element-ui.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/styles/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/styles/mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/styles/sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/styles/transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/styles/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/utils/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/utils/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/utils/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/utils/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/home/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/layout/Layout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/layout/components/AppMain.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/layout/components/Navbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/layout/components/Sidebar/SidebarItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/layout/components/Sidebar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/layout/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/layout/mixin/ResizeHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/login/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/oms/apply/applyDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/oms/apply/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/oms/apply/reason.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/oms/order/components/logisticsDialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/oms/order/deliverOrderList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/oms/order/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/oms/order/orderDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/oms/order/setting.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/brand/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/brand/components/BrandDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/brand/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/brand/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/product/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/product/components/ProductAttrDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/product/components/ProductDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/product/components/ProductInfoDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/product/components/ProductRelationDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/product/components/ProductSaleDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/product/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/product/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productAttr/addProductAttr.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productAttr/components/ProductAttrDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productAttr/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productAttr/productAttrList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productAttr/updateProductAttr.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productCate/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productCate/components/ProductCateDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productCate/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/pms/productCate/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/advertise/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/advertise/components/HomeAdvertiseDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/advertise/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/advertise/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/brand/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/coupon/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/coupon/components/CouponDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/coupon/history.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/coupon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/coupon/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/flash/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/flash/productRelationList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/flash/selectSessionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/flash/sessionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/hot/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/new/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/sms/subject/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/admin/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/menu/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/menu/components/MenuDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/menu/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/menu/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/resource/categoryList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/resource/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/role/allocMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/role/allocResource.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/views/ums/role/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/langs/zh_CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/codesample/css/prism.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-cool.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-cry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-embarassed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-foot-in-mouth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-frown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-innocent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-kiss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-laughing.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-money-mouth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-sealed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-surprised.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-tongue-out.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-undecided.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-wink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/emoticons/img/smiley-yell.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/plugins/visualblocks/css/visualblocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/content.inline.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/content.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce-mobile.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/fonts/tinymce.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/img/anchor.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/img/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/img/object.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/img/trans.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/skin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/skins/lightgray/skin.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/tinymce4.7.5/tinymce.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1i5FBfZiq1slhjuouXA2KGqNrs5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/01proj" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator.SC-202003201654\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cdaf4dc-921b-4324-a72d-435682a26b91" name="Default Changelist" comment="" />
+      <created>1601189417076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601189417076</updated>
+      <workItem from="1601189437415" duration="7000" />
+    </task>
+    <servers />
+  </component>
+</project>
